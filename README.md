@@ -7,4 +7,4 @@
 ---
 - 👏 Golang enthusiast
 - 👿 Java hater
-- 🥳 Open source advocate
+- 🥳 Open source advocater
